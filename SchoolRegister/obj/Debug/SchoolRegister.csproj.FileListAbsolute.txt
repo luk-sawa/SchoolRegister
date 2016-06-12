@@ -1,0 +1,16 @@
+D:\projekty\visual studio\projects\SchoolRegister\SchoolRegister\bin\Debug\SchoolRegister.exe.config
+D:\projekty\visual studio\projects\SchoolRegister\SchoolRegister\bin\Debug\SchoolRegister.exe
+D:\projekty\visual studio\projects\SchoolRegister\SchoolRegister\bin\Debug\SchoolRegister.pdb
+D:\projekty\visual studio\projects\SchoolRegister\SchoolRegister\obj\Debug\SchoolRegister.csprojResolveAssemblyReference.cache
+D:\projekty\visual studio\projects\SchoolRegister\SchoolRegister\obj\Debug\View\MainWindow.g.cs
+D:\projekty\visual studio\projects\SchoolRegister\SchoolRegister\obj\Debug\App.g.cs
+D:\projekty\visual studio\projects\SchoolRegister\SchoolRegister\obj\Debug\SchoolRegister_MarkupCompile.cache
+D:\projekty\visual studio\projects\SchoolRegister\SchoolRegister\obj\Debug\SchoolRegister_MarkupCompile.lref
+D:\projekty\visual studio\projects\SchoolRegister\SchoolRegister\obj\Debug\View\MainWindow.baml
+D:\projekty\visual studio\projects\SchoolRegister\SchoolRegister\obj\Debug\SchoolRegister.g.resources
+D:\projekty\visual studio\projects\SchoolRegister\SchoolRegister\obj\Debug\SchoolRegister.Properties.Resources.resources
+D:\projekty\visual studio\projects\SchoolRegister\SchoolRegister\obj\Debug\SchoolRegister.csproj.GenerateResource.Cache
+D:\projekty\visual studio\projects\SchoolRegister\SchoolRegister\obj\Debug\SchoolRegister.exe
+D:\projekty\visual studio\projects\SchoolRegister\SchoolRegister\obj\Debug\SchoolRegister.pdb
+D:\projekty\visual studio\projects\SchoolRegister\SchoolRegister\obj\Debug\View\AddGroupWindow.g.cs
+D:\projekty\visual studio\projects\SchoolRegister\SchoolRegister\obj\Debug\View\AddGroupWindow.baml

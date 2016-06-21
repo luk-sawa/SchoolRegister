@@ -1,0 +1,14 @@
+Program ma na celu tworzenie planu zajêæ z podzia³em na grupy.
+Jak np. w niewielkich szko³ach jêzykowych.
+
+W zak³adce "Students" dodajemy, edytujemy b¹dŸ usuwamy studentów ze "szko³y"
+pola imiê, nazwisko i stawka s¹ konieczne do podania.
+
+Nastêpnie w zak³adce "Groups" Edytujemy grupy. Mo¿emy tutaj dodaæ nowe grupy
+b¹dŸ w obszarze istniej¹cych grup dodawaæ/usuwaæ z nich studentów.
+
+W ostatniej zak³adce przydzielamy do odpowiednich dni tygodnia i godzin, grupy uczniów
+
+Po utworzeniu planu mo¿na go zapisaæ do pliku.
+
+(Wczytanie z pliku nie dzia³a)
